@@ -1,0 +1,8 @@
+#decision .background{
+    background-size: auto;
+    background-position: 50% 40%;
+}
+.impressum *, .impressum p{
+    font-size: smaller;
+    line-height: 1.44;
+}
